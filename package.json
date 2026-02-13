@@ -3,5 +3,10 @@
     "cors": "^2.8.6",
     "express": "^5.2.1",
     "mongoose": "^9.1.5"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "npm install"
   }
 }
