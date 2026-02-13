@@ -1,0 +1,13 @@
+// Source - https://stackoverflow.com/q/52457084
+// Posted by ewizard
+// Retrieved 2026-02-13, License - CC BY-SA 4.0
+
+....
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+....
